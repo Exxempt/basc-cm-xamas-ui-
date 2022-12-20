@@ -29,7 +29,7 @@ const Title = styled("h1")`
 const Navbar = () => {
     return (
         <Container>
-            <Logo href="https://www.bascdao.net/">
+            <Logo href="https://daobasc.gitbook.io/12-nfts-of-christmas/">
                 <Basc src="logo-white.svg" alt="basc-logo"/>
                 <Title>BASC</Title>
             </Logo>
