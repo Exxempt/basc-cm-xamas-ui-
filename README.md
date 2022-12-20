@@ -1,1 +1,1 @@
-# basc-cm-xamas-ui-
+# Metaplex Candy Machine Reference UI
